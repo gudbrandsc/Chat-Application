@@ -1,5 +1,5 @@
 ## What is Chat app?
-Chat app is an application that was part of my university course in Distributed Software Development. The application let's users send and receive both private and broadcast messages in the zookeeper cluster. It also include a UDP client and server to support reliable bulk download of the History data structure of another chat peer in the network.
+Chat app is an application that was part of my university course in Distributed Software Development. The application lets users send and receive both private and broadcast messages in the zookeeper cluster. It also include a UDP client and server to support reliable bulk download of the History data structure of another chat peer in the network.
 
 This chat application is implemented using the following technologies.
 - Sockets
@@ -16,7 +16,7 @@ This chat application is implemented using the following technologies.
 5. **Show history** - The user must be able to display the contents of its current history data structure.
 6. **Download history** - The user may request to download the entire broadcast chat history from another peer.
 7. **Help** - list the commands available to the user.
-8. **Exit** - application
+8. **Exit** - application.
 
 ## Application Execution
 
